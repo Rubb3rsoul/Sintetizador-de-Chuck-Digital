@@ -1,0 +1,1 @@
+Este proyecto implementa un sintetizador digital basado en FPGA que emula el comportamiento de una tuba, convirtiendo señales de sensores en notas musicales mediante lógica programable en hardware. Diseñado para músicos y entusiastas de la electrónica, el sistema combina técnicas avanzadas de procesamiento digital de señales con síntesis de audio en tiempo real.
